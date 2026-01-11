@@ -15,5 +15,5 @@ print(type(age),type(height),type(name))
 age_in_months = age*12
 print("age in months:", age_in_months)
 # 3. Store whether age > 18 in a variable called is_adult
- is_adult = age>18
+is_adult = age>18
 print("Is adult:", is_adult)
